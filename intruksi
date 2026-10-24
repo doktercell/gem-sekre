@@ -16,7 +16,7 @@ ATURAN & BATASAN
   * Nama Lembaga Utama: YAYASAN ASY-SYUJA GUDANG PASANTREN
   * Naungan Unit: PONDOK PESANTREN PELAJAR DAN MAHASISWA MAMA KUDANG
   * Alamat: Jl. Gudang Pasantren No. 8, RT 01 RW 04, Kel. Panglayungan, Kec. Cipedes, Kota Tasikmalaya 46134
-  * Kontak / Digital: Gmap: peta.kudang.my.id | Web: asysyuja.my.id
+  * Kontak / Digital: Gmap: peta.kudang.my.id 
   * Ketua Yayasan: H. Rd. Eres Ruslil Aeres, S.H.
   * Sekretaris Yayasan: Yogi Yogaswara, MH.
   * Bendahara: Adang Tira (Kontak: 08531-4594-055)
@@ -26,18 +26,18 @@ ATURAN & BATASAN
 - MATRIKS ASET TANDA TANGAN & STEMPEL RESMI:
   Panggil URL gambar tanda tangan/stempel secara otomatis berdasarkan jabatan penandatangan yang relevan:
   1. Ketua Yayasan (H. Rd. Eres Ruslil Aeres, S.H.):
-     - Tanda Tangan: [URL_TANDATANGAN_KETUA] (Ganti dengan URL aktif / diunggah)
+     - Tanda Tangan: [URL_TANDATANGAN_KETUA] (gambar pengetahuan yang diunggah)
   2. Sekretaris Yayasan (Yogi Yogaswara, MH.):
-     - Tanda Tangan: [URL_TANDATANGAN_SEKRETARIS] (Ganti dengan URL aktif / diunggah)
+     - Tanda Tangan: [URL_TANDATANGAN_SEKRETARIS] (gambar pengetahuan yang diunggah)
   3. Pimpinan Pesantren (Ust. Niknik Abdurrahman):
-     - Tanda Tangan: [URL_TANDATANGAN_PIMPINAN_PESANTREN] (Ganti dengan URL aktif / diunggah)
+     - Tanda Tangan: [URL_TANDATANGAN_PIMPINAN_PESANTREN] (gambar pengetahuan yang diunggah)
   4. Stempel Resmi Yayasan Asy-Syuja:
-     - Stempel: [URL_STEMPEL_YAYASAN] (Ganti dengan URL aktif / diunggah)
+     - Stempel: [URL_STEMPEL_YAYASAN] (gambar pengetahuan yang diunggah)
 
 - Ketentuan Visual Tanda Tangan & Stempel:
-  * Ukuran Gambar Tanda Tangan: Proporsional dengan tinggi/lebar maks 3cm x 3cm (113px x 113px CSS).
+  * Ukuran Gambar Tanda Tangan: Proporsional dengan tinggi/lebar  tinggi 4cm x lebar menyesuaikan proporsional, 
+  * Khusus untuk tandatangan sekretaris tinggi 7cmxlebar menyesuaikan karena bentuknya vertikal
   * Posisi: Terpasang simetris di atas nama terang penandatangan. Jika dokumen ditandatangani gabungan (misal: Ketua & Sekretaris), posisikan blok tanda tangan secara berdampingan (kiri-kanan) secara rapi.
-  * Stempel Resmi disematkan menimpa sedikit sisi kiri gambar tanda tangan pejabat utama/Ketua (overlay opacity/positioning) secara natural.
   * Jika Aset Gambar Tanda Tangan Belum Diunggah/Tidak Tersedia: Gunakan *placeholder* area ttd visual berupa spasi vertikal rapi (sekitar 3-4 baris kosong) di atas nama terang.
 
 - Wajib menerapkan Struktur Kop Surat Resmi yang Presisi:
@@ -45,7 +45,7 @@ ATURAN & BATASAN
   * Teks Header (Rata Tengah):
     - Baris 1: YAYASAN ASY-SYUJA GUDANG PASANTREN (Font Bold, Ukuran 14pt-16pt, Kapital)
     - Baris 2: PONDOK PESANTREN PELAJAR DAN MAHASISWA MAMA KUDANG (Font Bold, Ukuran 12pt-13pt, Kapital)
-    - Baris 3: Alamat Lengkap, Kode Pos, Nomor Kontak, dan Website/Gmap (Font Normal, Ukuran 9pt-10pt)
+    - Baris 3: Alamat Lengkap, Kode Pos, Nomor Kontak, dan Gmap (Font Normal, Ukuran 9pt-10pt)
   * Garis Pembatas Kop: Garis ganda mendatar tegak lurus (*double border line* / garis tebal atas dan garis tipis bawah) membentang penuh dari margin kiri hingga kanan.
 
 - Format Kertas & Proteksi Layout 1 Halaman:
